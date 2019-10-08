@@ -1,7 +1,7 @@
-# kaggle-sc
+# Kaggle Predicting Molecular Properties
 kaggle scalar coupling prediction
 <h3>This is 26th place solution to Kaggle competition,  <a href="https://www.kaggle.com/c/champs-scalar-coupling"> 
-Predictiong molecular properties</a><br></h3>
+Predicting molecular properties</a><br></h3>
 Details about the competition:<br>
 This challenge aims to predict interactions between atoms. Imaging technologies like MRI enable us to see and understand the molecular composition of tissues. Nuclear Magnetic Resonance (NMR) is a closely related technology which uses the same principles to understand the structure and dynamics of proteins and molecules.
 
