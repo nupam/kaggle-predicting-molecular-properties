@@ -12,7 +12,7 @@ This competition was hosted by members of the CHemistry and Mathematics in Phase
 
 First of all, tons of thanks to the Kaggle community, the Kaggle team and competition hosts for the event. I am just starting out in the field (doing my bachelors now) and so if I made any mistake here or you have any suggestions, please let me know.
 I took part in the competition to learn and be comfortable with Pytorch with a hands on approach. I did lots of tensor manipulation. I did not have much expectation(it is intimidating to see so many data science experts, also I joined the competition late). And then I got a medal… <br>
-For details about data, see notebook **molecules-eda.ipynb** of this repo or at <a href="https://nbviewer.jupyter.org/github/nupam/kaggle-sc/blob/master/molecules-eda.ipynb">Nbviewer</a><br>
+For details about data, see notebook **molecules-eda.ipynb** of this repo or at <a href="https://nbviewer.jupyter.org/github/nupam/kaggle-predicting-molecular-properties/blob/master/molecules-eda.ipynb">Nbviewer</a><br>
 <br>
 ### Model details
 Too much talk, real deal is as follows:<br>
