@@ -30,4 +30,6 @@ It was fun.<br>
 
 Also, if you have any suggestions, or any thing at all, leave a remark.<br>
 I will be adding more documnetations as soon I find some free time.<br>
+---
+***update after a longg time: ping me if any doubt***
 I can be found on kaggle at <a href="https://www.kaggle.com/greenahn"> greenAHN</a>.
